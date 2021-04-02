@@ -1,0 +1,3 @@
+include ':GitDemoLib'
+include ':app'
+rootProject.name = "GitDemo"
